@@ -1,26 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Halaman-1" id="5zQunvHTwS_qLseNr09c">
-    <mxGraphModel dx="868" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
-          <mxGeometry height="60" width="30" x="100" y="200" as="geometry" />
+          <mxGeometry height="60" width="30" x="20" y="200" as="geometry" />
         </mxCell>
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
           <mxGeometry height="60" width="30" x="620" y="200" as="geometry" />
         </mxCell>
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="40" width="70" x="240" y="120" as="geometry" />
+          <mxGeometry height="30" width="52.5" x="157.5" y="20" as="geometry" />
         </mxCell>
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mengakses Dashboard" vertex="1">
-          <mxGeometry height="50" width="95" x="227.5" y="190" as="geometry" />
+          <mxGeometry height="50" width="95" x="136.25" y="60" as="geometry" />
         </mxCell>
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mengelola Laporan Harian" vertex="1">
-          <mxGeometry height="70" width="115" x="215" y="270" as="geometry" />
+          <mxGeometry height="60" width="113.75" x="126.88" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="pC-X0hTWn7o7eLc0_muQ-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="210" y="370" as="geometry" />
+        <mxCell id="pC-X0hTWn7o7eLc0_muQ-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Export laporan by pdf/excel" vertex="1">
+          <mxGeometry height="60" width="120" x="123.75" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="loYmKTORtN93sYR5r0To-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
+          <mxGeometry height="30" width="52.5" x="160" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="loYmKTORtN93sYR5r0To-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Riwayat Laporan Harian" vertex="1">
+          <mxGeometry height="50" width="103.12" x="132.19" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
