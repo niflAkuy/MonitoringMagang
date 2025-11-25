@@ -7,9 +7,6 @@
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
           <mxGeometry height="60" width="30" x="20" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="pC-X0hTWn7o7eLc0_muQ-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
-          <mxGeometry height="60" width="30" x="620" y="200" as="geometry" />
-        </mxCell>
         <mxCell id="pC-X0hTWn7o7eLc0_muQ-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="30" width="52.5" x="157.5" y="20" as="geometry" />
         </mxCell>
@@ -27,6 +24,9 @@
         </mxCell>
         <mxCell id="loYmKTORtN93sYR5r0To-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Riwayat Laporan Harian" vertex="1">
           <mxGeometry height="50" width="103.12" x="132.19" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="loYmKTORtN93sYR5r0To-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="490" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
