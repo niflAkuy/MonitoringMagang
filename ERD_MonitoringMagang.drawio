@@ -475,7 +475,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ym1KREhgUZtv3UdBmStf-23" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Users" vertex="1">
-          <mxGeometry height="540" width="270" x="-100" y="40" as="geometry">
+          <mxGeometry height="540" width="270" x="-120" y="40" as="geometry">
             <mxRectangle height="30" width="70" x="-100" y="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
