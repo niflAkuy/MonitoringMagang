@@ -292,7 +292,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ym1KREhgUZtv3UdBmStf-3" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" value="Reports" vertex="1">
-          <mxGeometry height="340" width="300" x="240" y="40" as="geometry" />
+          <mxGeometry height="340" width="300" x="220" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ym1KREhgUZtv3UdBmStf-4" parent="ym1KREhgUZtv3UdBmStf-3" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
           <mxGeometry height="30" width="300" y="30" as="geometry" />
