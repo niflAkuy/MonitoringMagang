@@ -1066,7 +1066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3HHU8skZA6v8YXDSktw1" name="Halaman-3">
-    <mxGraphModel dx="1665" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1959" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1085,7 +1085,7 @@
         <mxCell id="3ByNSJXCGdpdTXjdYvAh-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Perancangan Fungsional" vertex="1">
           <mxGeometry height="40" width="160" x="320" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="3ByNSJXCGdpdTXjdYvAh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Implementasi Sistem" vertex="1">
+        <mxCell id="3ByNSJXCGdpdTXjdYvAh-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Implementasi Sistem &amp;amp; Prototyping UI" vertex="1">
           <mxGeometry height="40" width="160" x="320" y="500" as="geometry" />
         </mxCell>
         <mxCell id="3ByNSJXCGdpdTXjdYvAh-20" edge="1" parent="1" source="3ByNSJXCGdpdTXjdYvAh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3ByNSJXCGdpdTXjdYvAh-9" value="">
