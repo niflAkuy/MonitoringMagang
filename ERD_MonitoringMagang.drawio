@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1042" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1166,6 +1166,80 @@
         </mxCell>
         <mxCell id="3ByNSJXCGdpdTXjdYvAh-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ya" vertex="1">
           <mxGeometry height="30" width="60" x="384" y="700" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9z0LKWF10zBKJswE91qI" name="Halaman-4">
+    <mxGraphModel dx="1281" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lspN_mM25_RAUcUL0NDO-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mulai" vertex="1">
+          <mxGeometry height="50" width="100" x="350" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Identifikasi Masalah" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Studi Literatur" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Teknik Pengumpulan Data" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Analisa Kebutuhan Data" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pemodelan SIstem" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pengujian" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="350" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-11" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lspN_mM25_RAUcUL0NDO-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="150" as="sourcePoint" />
+            <mxPoint x="540" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-14" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lspN_mM25_RAUcUL0NDO-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-15" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-4" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="lspN_mM25_RAUcUL0NDO-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-16" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lspN_mM25_RAUcUL0NDO-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-17" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lspN_mM25_RAUcUL0NDO-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-18" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-7" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lspN_mM25_RAUcUL0NDO-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lspN_mM25_RAUcUL0NDO-19" edge="1" parent="1" source="lspN_mM25_RAUcUL0NDO-8" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lspN_mM25_RAUcUL0NDO-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
